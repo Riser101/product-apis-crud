@@ -1,8 +1,7 @@
 
 **NodeJS v4.1.0** and **MongoDB  v3.0.7**
 ## Installation
-Run `bash install` in the project root directory.
-
+Run `bash install` in the project root directory OR hit `https://products-api-crud.herokuapp.com/` to access the app instance on Heroku.
 ## Config
 	{
 		"httpPort":3000,
