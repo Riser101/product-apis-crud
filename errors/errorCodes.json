@@ -1,0 +1,13 @@
+{
+	"1000": "You are not registered. Please register first",
+	"1001": "Failed to add your product",
+	"1002": "Invalid email or password",
+	"1003" : "Failed to delete your product",
+	"1004" : "Invalid productID: You must send a 24 character hex productID",
+	"1005" :"Unable to delete your product. Please try again.",
+	"1006" :"Your product not found.",
+	"1007" :"Unable to edit your product. Please try again.",
+	"1008" :"Unable to add user. Please try again.",
+	"1009" :"Something went wrong, please try again later"
+}
+
